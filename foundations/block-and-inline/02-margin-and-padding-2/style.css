@@ -7,7 +7,8 @@ body {
 .card {
   width: 400px;
   background: #fff;
-  margin: 36px auto;
+  margin: 8px auto;
+  border: 5px solid white;
 }
 
 .title {
@@ -18,17 +19,19 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 36px auto;
+  margin: 8px auto;
   padding: 20px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 36px auto;
+  margin: 8px auto;
   padding: 20px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 24px;
+  align: center;
 }
