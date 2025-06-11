@@ -19,10 +19,7 @@ ul {
   min-width: 0px;
   /* this removes the dots on the list items*/
   list-style-type: none;
-  display: flex;
-  margin: 1;
-  padding: 0;
-  gap: 8px;
+  
 
 }
 
