@@ -16,8 +16,38 @@
 .container2 {
   display: flex;
   flex-direction: row;
+  text-align: center;
+}
+/* placeholders for text */
+.container3 {
+  display: flex;
+  width: 101px;
+  height: 100px;
 
 }
+
+.container4 {
+  display: flex;
+  width: 101px;
+  height: 100px;
+
+}
+
+.container5 {
+  display: flex;
+  width: 101px;
+  height: 100px;
+
+}
+
+.container6 {
+  display: flex;
+  width: 101px;
+  height: 100px;
+
+}
+
+
 
 img {
   width: 100px;
