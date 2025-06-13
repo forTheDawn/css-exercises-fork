@@ -12,6 +12,11 @@ body {
   justify-content: space-between;
 }
 
+a {
+  color: grey;
+  text-decoration: none;
+}
+
 .content {
   display: flex;
 }
@@ -68,5 +73,5 @@ ul {
   flex-direction: row;
   margin: 0;
   padding: 0;
-  gap: 32px;
+  gap: 16px;
 }
