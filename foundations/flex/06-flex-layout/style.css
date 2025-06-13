@@ -44,3 +44,19 @@ ul {
   justify-content: space-around;
   background: #eee;
 }
+
+/* This pushes left links to left*/
+
+.left-linkss {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+}
+
+.right-linkss {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+}
