@@ -9,7 +9,7 @@ body {
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .content {
@@ -46,7 +46,7 @@ ul {
   height: 52px;
   display: flex;
   align-items:center;
-  justify-content: space-around;
+  justify-content: space-between;
   background: #eee;
 }
 
@@ -58,6 +58,7 @@ ul {
   margin: 0;
   padding: 0;
   gap: 16px;
+
 }
 
 /* This pushes left links to right*/
@@ -67,5 +68,5 @@ ul {
   flex-direction: row;
   margin: 0;
   padding: 0;
-  gap: 16px;
+  gap: 32px;
 }
