@@ -14,9 +14,12 @@
 }
 
 .container2 {
+  width: 1013px;
+  height: 20px;
   display: flex;
   flex-direction: row;
-  text-align: center;
+  text-align:end;
+  justify-items:center;
 }
 /* placeholders for text */
 .container3 {
