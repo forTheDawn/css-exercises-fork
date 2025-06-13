@@ -7,6 +7,11 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-around;
+}
+
 .content {
   display: flex;
 }
@@ -47,16 +52,20 @@ ul {
 
 /* This pushes left links to left*/
 
-.left-linkss {
+.left-links {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
-
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
 
-.right-linkss {
+/* This pushes left links to right*/
+
+.right-links {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
-
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
